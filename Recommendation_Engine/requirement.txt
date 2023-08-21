@@ -1,0 +1,7 @@
+openai
+openai-cli
+transformers
+pyarrow
+pinecone-client
+tqdm
+
